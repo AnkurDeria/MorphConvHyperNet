@@ -13,6 +13,6 @@ If you have questions or suggestions, please feel free to open an issue. Please 
   publisher={IEEE}
 }
 
-## Acknowledgement
+Acknowledgement
 
 Part of this code is from a implementation of 2D Morphological Network CNN by [ranjanZ](https://github.com/ranjanZ/2D-Morphological-Network).
