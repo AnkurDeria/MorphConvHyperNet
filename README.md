@@ -1,5 +1,9 @@
 The repository contains the implementations for [Morphological Convolutional Neural Networks for Hyperspectral Image Classification](https://ieeexplore.ieee.org/document/9451651).
 
+### Datasets
+
+You can get the dataset from our [HSI-Traditional-to-Deep-Models](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models) repository (don't forget to give a star). Put the dataset folder in the root directory before running the notebook.
+
 
 If you have questions or suggestions, please feel free to open an issue. Please cite as:
 ```
@@ -16,7 +20,3 @@ If you have questions or suggestions, please feel free to open an issue. Please 
 ### Acknowledgement
 
 Part of this code is from an implementation of 2D Morphological Network CNN by [ranjanZ](https://github.com/ranjanZ/2D-Morphological-Network).
-
-### Datasets
-
-You can get the dataset from our [HSI-Traditional-to-Deep-Models](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models) repository (don't forget to give a star). Put the dataset folder in the root directory before running the notebook.
